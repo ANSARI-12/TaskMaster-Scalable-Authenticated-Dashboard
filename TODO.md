@@ -1,0 +1,6 @@
+- [x] Edit Backend/server.js to remove require for profileRoutes
+- [x] Edit Backend/db.js to use process.env.DB_PASSWORD and process.env.DB_NAME
+- [x] Run backend with npm start
+- [x] Test auth endpoints with curl
+- [x] Test entity endpoints with curl
+- [x] Confirm frontend is running and routing works
